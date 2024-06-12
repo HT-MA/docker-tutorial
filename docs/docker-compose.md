@@ -5,7 +5,7 @@ Docker Compose
 
 `docker-compose` 是用来做 `docker` 的多容器控制，这个工具是用于 docker 自动化的东西，将多个 docker 容器的操作命令，简化成一条命令，自动完成配置中的容器启动。
 
-## 安装
+## 安装 -
 
 [官方安装教程](https://docs.docker.com/compose/install/#install-compose)
 
